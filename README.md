@@ -2,6 +2,6 @@
 - 👀 I’m interested in digital humanities, gender equality, and human rights education  
 - 🌱 I’m currently learning new methodologies for social impact projects and digital publishing  
 - 💞️ I’m looking to collaborate on educational, cultural, and humanistic digital projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tuusuario) | [ORCID](https://orcid.org/0000-0000-0000-0000)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natstudio2104/) | [ORCID](https://orcid.org/0000-0002-6374-108X)  
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I’ve designed and led community-driven projects like *Perros de raza única*, combining storytelling and social action through digital platforms
