@@ -16,7 +16,7 @@
 
 - ⚖️ I participated in the design and implementation of the Tecnológico de Monterrey’s Equality Plan 2021–2025.
 
-- 🏅 In 2023, I was inducted into the *Círculo de Profesores Destacados* (Circle of Distinguished Faculty), a recognition awarded for teaching excellence, academic leadership, and meaningful contributions to the future of education and society.
+- 🏅 In 2023, I was inducted into the *Círculo de Profesores Destacados* (Circle of Distinguished Faculty) at Tecnológico de Monterrey, a recognition awarded for teaching excellence, academic leadership, and meaningful contributions to the future of education and society.
 
 
 ## 📚 Selected Publications
