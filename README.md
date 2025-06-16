@@ -10,7 +10,7 @@
 
 ## 🧑‍🏫 Teaching Contributions
 
-- 🎓 I contributed to the design of the undergraduate course *Data Science and Cultural Analysis* (Tecnológico de Monterrey, Feb–Jun 2024), developing thematic content, learning activities, assessments, and problem-based learning scenarios for the platform.
+- 🎓 I contributed to the design of the undergraduate course - General Education- CO1010 *Data Science and Cultural Analysis* (Tecnológico de Monterrey, Feb–Jun 2024), developing thematic content, learning activities, assessments, and problem-based learning scenarios for the platform.
 
 - 📚 I coordinate the presence of Tecnológico de Monterrey at the Guadalajara International Book Fair (FIL Guadalajara), where I serve as project lead and curate the themes and presentations that showcase our academic and cultural work in the humanities.
 
