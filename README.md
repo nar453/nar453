@@ -30,7 +30,7 @@
   _Ediciones Tecnológico de Monterrey_  
   🔗 [DOI: 10.60514/6XGG-2020](https://doi.org/10.60514/6XGG-2020)
 
-  - 📖 Amézquita Zamora, J. A., & Rocha Díaz, N. (2023).  
+- 📖 Amézquita Zamora, J. A., & Rocha Díaz, N. (2023).  
   *Empresas y Hambre Cero: ¿Filantropía o responsabilidad ciudadana por los derechos humanos?*  
   In P. Ayala Enríquez, L. N. Berrún Castañón & J. C. Vázquez Parra (Eds.),  
   *Hambre cero. Narraciones y esfuerzos institucionales* (pp. 73–102).  
