@@ -44,7 +44,7 @@
 
 ### 📰 Journal Articles
 
-- Amézquita Zamora, J. A., & Rocha Díaz, N. (2025). Lidia, GPT personalizado para desarrollar competencias transversales en el aula. Company Games & Business Simulation Academic Journal, 5(1), 65–82.
+- 🗞️ Amézquita Zamora, J. A., & Rocha Díaz, N. (2025). Lidia, GPT personalizado para desarrollar competencias transversales en el aula. Company Games & Business Simulation Academic Journal, 5(1), 65–82.
   
 - 🗞️ Rocha Díaz, N. (2021).  
   *Más allá de la gramática: el lenguaje inclusivo como exigencia de los derechos humanos*.  
