@@ -23,18 +23,18 @@
 
 ### 📘 Book Chapters
 
-- 📖 Amézquita Zamora, J. A., & Rocha Díaz, N. (2023).  
-  *Empresas y Hambre Cero: ¿Filantropía o responsabilidad ciudadana por los derechos humanos?*  
-  In P. Ayala Enríquez, L. N. Berrún Castañón & J. C. Vázquez Parra (Eds.),  
-  *Hambre cero. Narraciones y esfuerzos institucionales* (pp. 73–102).  
-  _Ediciones Tecnológico de Monterrey_
-
 - 📖 Rocha Díaz, N., Serrano Díaz, V. G., Mora, F. A., & Cabrera, L. D. (2025).  
   *Emprendimiento de mujeres en las humanidades digitales*  
   In J. A. Ruiz Godoy, S. L. Navarro Parra, L. M. Pérez Gómez & J. C. Vázquez Parra (Coords.),  
   *Liderazgo y emprendimiento con perspectiva de género. Casos de éxito en México y Colombia* (pp. xx–xx).  
   _Ediciones Tecnológico de Monterrey_  
   🔗 [DOI: 10.60514/6XGG-2020](https://doi.org/10.60514/6XGG-2020)
+
+  - 📖 Amézquita Zamora, J. A., & Rocha Díaz, N. (2023).  
+  *Empresas y Hambre Cero: ¿Filantropía o responsabilidad ciudadana por los derechos humanos?*  
+  In P. Ayala Enríquez, L. N. Berrún Castañón & J. C. Vázquez Parra (Eds.),  
+  *Hambre cero. Narraciones y esfuerzos institucionales* (pp. 73–102).  
+  _Ediciones Tecnológico de Monterrey_
 
 - 📖 Amézquita Zamora, J. A., & Rocha Díaz, N. (2018).  
   *Reducir la desigualdad en y entre los países*  
@@ -44,6 +44,8 @@
 
 ### 📰 Journal Articles
 
+- Amézquita Zamora, J. A., & Rocha Díaz, N. (2025). Lidia, GPT personalizado para desarrollar competencias transversales en el aula. Company Games & Business Simulation Academic Journal, 5(1), 65–82.
+  
 - 🗞️ Rocha Díaz, N. (2021).  
   *Más allá de la gramática: el lenguaje inclusivo como exigencia de los derechos humanos*.  
   _Revista Estudios_, (43), 420–436.
