@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @nar453  
 - 👀 I’m interested in digital humanities, gender equality, posthumanism, and non-human animalrights 
-- 🌱 I’m currently learning new methodologies for social impact projects and digital publishing  
+- 🌱 I’m currently learning new methodologies for digital humanities and cultural analytics
 - 💞️ I’m looking to collaborate on educational, cultural, and humanistic digital projects  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natstudio2104/) | [ORCID](https://orcid.org/0000-0002-6374-108X)  
 - 😄 Pronouns: she/her  
