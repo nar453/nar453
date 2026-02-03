@@ -1,22 +1,33 @@
 # 👋 Welcome to my GitHub
 
-- 👋 Hi, I’m @nar453  
-- 👀 I’m interested in digital humanities, gender equality, posthumanism, and non-human animalrights 
-- 🌱 I’m currently learning new methodologies for digital humanities and cultural analytics
-- 💞️ I’m looking to collaborate on educational, cultural, and humanistic digital projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natstudio2104/) | [ORCID](https://orcid.org/0000-0002-6374-108X)  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I’ve designed and led community-driven projects like *Perros de raza única*, combining storytelling and social action through digital platforms
+# Digital Vision & Tech-Humanist Era ✨
 
-## 🧑‍🏫 Teaching Contributions
+* 📂 **The edit:** Digital Humanities | Gender Equality | Posthumanism | Non-human Animal Rights.
+* 💥 **Current Hyperfocus:** Cultural Analytics & GenAI methodologies for real-world impact projects.
 
-- 🎓 I contributed to the design of the undergraduate course *Data Science and Cultural Analysis* (Tecnológico de Monterrey, Feb–Jun 2024), developing thematic content, learning activities, assessments, and problem-based learning scenarios for the platform.
+### Education Game-Changer (Tec de Monterrey)
 
-- 📚 I coordinate the presence of Tecnológico de Monterrey at the Guadalajara International Book Fair (FIL Guadalajara), where I serve as project lead and curate the themes and presentations that showcase our academic and cultural work in the humanities.
+* ⭐ **High-Key Impact:** Member of the Circle of Distinguished Faculty (since 2023).
+* 🫆 **Blueprint:** Co-creator of the Data Science and Cultural Analysis undergraduate course (2024 & 2026 versions).
+* 👾 **Lvl Up:** Specialist in active learning methodologies (PBL) and digital environments that actually work.
 
-- ⚖️ I participated in the design and implementation of the Tecnológico de Monterrey’s Equality Plan 2021–2025.
+### Community
 
-- 🏅 In 2023, I was inducted into the *Círculo de Profesores Destacados* (Circle of Distinguished Faculty) at Tecnológico de Monterrey, a recognition awarded for teaching excellence, academic leadership, and meaningful contributions to the future of education and society.
+* 📚 **FIL Guadalajara:** Project Lead & Curator of the institutional presence for Tec de Monterrey (Making culture happen).
+* 🫟 **Equality Advocate:** Co-designer of the 2021–2025 Equality Plan at Tec de Monterrey.
+* 🐕 **Storytelling on the map:** Leading *Perros de raza única*, connecting digital narratives with social action.
+
+---
+
+<div align="right">
+  
+📩 **CATCH ME ON:** [LINKEDIN](https://www.linkedin.com/in/natstudio2104/) | [ORCID](https://orcid.org/0000-0002-6374-108X)
+natalia.rocha@tec.mx  
+**Pronouns:** she/her
+
+</div>
+
+</div>
 
 
 ## 📚 Selected Publications
